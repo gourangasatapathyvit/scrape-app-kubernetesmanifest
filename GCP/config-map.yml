@@ -7,5 +7,5 @@ data:
   REDIS_HOST: redis-service
   SCRAPE_SERVICE_URL: scrape-service
   SPRING_LOGGING_LEVEL_INFO: info
-  LB_SCRAPESERVICE_URL : lb://scrape-service
+  LB_SCRAPESERVICE_URL : http://scrape-service:8090
   # IS_EUREKA_PROFILE: "false"
