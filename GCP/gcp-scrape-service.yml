@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: scrape-service
-          image: gouranga1234/scrapeservice:1.1.13
+          image: gouranga1234/scrapeservice:1.1.14
           imagePullPolicy: Always
           ports:
             - containerPort: 8090
