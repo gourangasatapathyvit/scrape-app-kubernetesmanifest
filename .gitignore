@@ -1,2 +1,2 @@
-/gcp/cert.crt
-/gcp/privatekey.key
+/gcp/*.crt
+/gcp/*.key
